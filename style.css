@@ -1,0 +1,172 @@
+body {
+  background-image: url(https://goldwallpapers.com/uploads/posts/sleek-desktop-backgrounds/sleek_desktop_backgrounds_017.jpg);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.navbar {
+  margin: auto;
+  overflow: hiddern;
+  width: max-content;
+}
+
+.nav-item {
+  width: 150px;
+}
+
+a:link,
+a:visited {
+  border: groove #212529;
+  border-width: 5px 20px;
+  font-size: 18px;
+  background: #212529;
+  color: white;
+  margin: 5px;
+  padding: 15px 25px;
+  text-decoration: none;
+}
+
+a:hover,
+a:active {
+  background-color: darkgrey;
+  color: #212529;
+}
+.websites {
+  margin-top: 60px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: white;
+}
+
+.web-item {
+  margin-bottom: 45px;
+  text-align: center;
+  font-size: 12px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.major {
+  color: white;
+  font-size: 18px;
+  font-style: italic;
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.name,
+h2 {
+  color: white;
+  text-align: center;
+}
+
+.rounded-circle {
+  display: block;
+  margin-top: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid white;
+}
+.aboutme {
+  margin-top: 40px;
+  color: white;
+  font-size: 16px;
+}
+
+.abmdesc {
+  color: white;
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 10px;
+  padding-left: 15px;
+  padding-top: 10px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  border: solid 1px white;
+  background: dimgray;
+}
+.schedule {
+  margin-top: 60px;
+  margin-bottom: 20px;
+  text-align: center;
+  color: antiquewhite;
+}
+
+.table table-striped {
+  text-align: center;
+  width: 100%;
+}
+.tablehead {
+  text-align: center;
+  color: antiquewhite;
+}
+
+tr {
+  text-align: center;
+  color: antiquewhite;
+}
+
+.movie-title {
+  color: white;
+  margin-top: 80px;
+}
+
+.movie-list {
+  list-style-type: circle;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #212529;
+  float: center;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.hobbies {
+  margin-top: 60px;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.hobby-list {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #212529;
+  float: center;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+.gallery-title {
+  margin-top: 100px;
+  color: white;
+}
+
+.gallery {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.desc {
+  text-align: center;
+  color: white;
+}
+
+.footer {
+  margin-top: 100px;
+}
